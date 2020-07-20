@@ -423,12 +423,12 @@ string selectorType = "SEL_KNN";       // SEL_NN, SEL_KNN
 #### MP.7 Performance Evaluation 
 * Count the number of keypoints on the preceding vehicle for all 10 images and take note of the distribution of their neighborhood size. 
 * Do this for all the detectors you have implemented.
-* solution for data in file `TASK MP.7_Counts_Keypoints.csv` and  in rubric [**Results**](###Keypoint-detected)  below.
+* solution for data in file `TASK MP.7_Counts_Keypoints.csv` and  in rubric [**Results**](#Keypoint-detected)  below.
 
 #### MP.8 Performance Evaluation
 * Count the number of matched keypoints for all 10 images using all possible combinations of detectors and descriptors. 
 * In the matching step, the BF approach is used with the descriptor distance ratio set to 0.8.
-* solution for data in file  `TASK MP.8_Counts_matched_Keypoints.csv` and  in rubric [**Results**](###matched-keypoints) below.
+* solution for data in file  `TASK MP.8_Counts_matched_Keypoints.csv` and  in rubric [**Results**](#matched-keypoints) below.
 
 #### MP.9 Performance Evaluation 
 * Log the time it takes for keypoint detection and descriptor extraction. 
