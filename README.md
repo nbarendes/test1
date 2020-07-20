@@ -433,7 +433,7 @@ string selectorType = "SEL_KNN";       // SEL_NN, SEL_KNN
 #### MP.9 Performance Evaluation 
 * Log the time it takes for keypoint detection and descriptor extraction. 
 * The results must be entered into a spreadsheet and based on this data, the TOP3 detector / descriptor combinations must be recommended as the best choice for our purpose of detecting keypoints on vehicles.
-* solution for data in file  `TASK MP.9_Time_Keypoints.csv` and  in rubric [**Results**](####Time-taken) below.
+* solution for data in file  `TASK MP.9_Time_Keypoints.csv` and  in rubric [**Results**](#Time-taken) below.
 
 
 
